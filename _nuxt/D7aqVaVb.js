@@ -1,0 +1,1 @@
+import{C as t,u as i}from"./DrTh_W7S.js";function n(n){if(null==n||""===n)return"";const r=t(n);return r.isFinite()?`${i(r.times(100))}%`:""}export{n as t};

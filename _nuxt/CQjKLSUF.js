@@ -1,0 +1,1 @@
+import{Do as r,Mo as n,So as o,To as t}from"./DfcASjon.js";function s(s,a,e){if(!n(e))return!1;var i=typeof a;return!!("number"==i?o(e)&&r(a,e.length):"string"==i&&a in e)&&t(e[a],s)}export{s as t};
